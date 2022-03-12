@@ -915,7 +915,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C020076094N00001F</string>
+			<string>ABCDEFG</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -927,7 +927,7 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02C8YY6046M</string>
+			<string>ABCDEFG</string>
 			<key>SystemUUID</key>
 			<string>D56FA916-E120-4F45-983C-4F207783A054</string>
 		</dict>
@@ -946,9 +946,9 @@
 			<key>BoardManufacturer</key>
 			<string></string>
 			<key>BoardProduct</key>
-			<string>Mac-AF89B6D9451A490B</string>
+			<string>Mac-ABCDEFG</string>
 			<key>BoardSerialNumber</key>
-			<string>C020076094N00001F</string>
+			<string>ABCDEFG</string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -958,7 +958,7 @@
 			<key>ChassisManufacturer</key>
 			<string></string>
 			<key>ChassisSerialNumber</key>
-			<string>C02C8YY6046M</string>
+			<string>ABCDEFG</string>
 			<key>ChassisType</key>
 			<integer>13</integer>
 			<key>ChassisVersion</key>
@@ -982,9 +982,9 @@
 			<key>SystemSKUNumber</key>
 			<string>System SKU#</string>
 			<key>SystemSerialNumber</key>
-			<string>C02C8YY6046M</string>
+			<string>ABCDEFG</string>
 			<key>SystemUUID</key>
-			<string>D56FA916-E120-4F45-983C-4F207783A054</string>
+			<string>ABCDEFG-E120-4F45-983C-4F207783A054</string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
