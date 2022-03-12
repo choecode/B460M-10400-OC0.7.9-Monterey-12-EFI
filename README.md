@@ -22,9 +22,12 @@ WIFI+BT:    BCM94360CD FV-T919
 
 # Versions
 
-MacOS:      Monterey 12.1 beta
+MacOS:      Monterey 12.3 beta
 
-OpenCore:   0.7.5
+OpenCore:   0.7.9
+
+# Tips
+Change SerialNumber !!!
 
 
 
